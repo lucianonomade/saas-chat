@@ -1,0 +1,12 @@
+- Conexão não atualiza o status após ser scaneada.
+
+- Open.ia não aparece as mensagens no chat, apenas para o cliente (pelo jeito não salva no banco de dados).  [ OK ]
+- reponder audio não funciona. [ OK ]
+- Erro ao encaminhar mensagem. [ OK ]
+- Ajustar respostas rapidas para ser de forma global e nao por ususario. [ OK ]
+- Ajusta erro de no such fila or directory do caminho do seu arquivo . txt. [ OK ]
+- Chatbot ao chegar no ultimo nivel , fica repetindo a mensagem.  [ OK ]
+
+[ HOT-FIX ]
+- Imagem que é enviada junto a saudação não aparece no chat apenas para o cliente. [ OK ] -
+- Botão de resolver tickets não esta funcionando quando o ticket esta em aberto. [ OK ] -
